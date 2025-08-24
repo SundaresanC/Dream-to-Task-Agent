@@ -1,0 +1,7 @@
+{
+  "goal": "Learn to play guitar",
+  "timeframe": "3-months",
+  "provider": "local-fallback",
+  "model": "rule-based",
+  "output": "Plan for Learn to play guitar over 3-months: 1) Break goal into milestones, 2) Assign weekly tasks, 3) Track progress manually."
+}

@@ -1,0 +1,7 @@
+{
+  "goal": "Start a fitness routine",
+  "timeframe": "3 months",
+  "provider": "local-fallback",
+  "model": "rule-based",
+  "output": "Plan for Start a fitness routine over 3 months: 1) Break goal into milestones, 2) Assign weekly tasks, 3) Track progress manually."
+}
